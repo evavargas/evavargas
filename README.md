@@ -1,6 +1,6 @@
 # Hola, soy Eva 👋
 
-Ingeniera de software con 6 años de experiencia y foco senior en frontend,
+Ingeniera de software con 6 años de experiencia,
 con trayectoria en fintech y pagos. Me gusta convertir ideas en productos,
 del diseño a producción, y uso desarrollo asistido por IA para construirlos.
 
