@@ -10,7 +10,7 @@ del diseño a producción, y uso desarrollo asistido por IA para construirlos.
 
 - **[Coffee Master](https://github.com/evavargas/coffee-master)** ([live](https://coffeemasteruy.vercel.app)) — chat de barista con Claude. Web (Next.js), app móvil (Expo), backend FastAPI.
 - **[Portfolio](https://github.com/evavargas/portfolio)** — mi sitio personal en Next.js, en español, inglés y francés.
-- **[Patio](https://github.com/evavargas/patio)** ([live]([https://calendar-bay-kappa.vercel.app](https://patio-game.pages.dev/))) — Minijuego educativo en 3d, con panel de administración y desafios ajustables.
+- **[Patio](https://github.com/evavargas/patio)** ([live](https://patio-panel.pages.dev/)) — Minijuego educativo en 3d, con panel de administración y desafios ajustables.
 
 ## Stack
 
